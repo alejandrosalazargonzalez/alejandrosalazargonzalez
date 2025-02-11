@@ -1,10 +1,6 @@
 ## Hi there 👋
 
 <!--
-**alejandrosalazargonzalez/alejandrosalazargonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +10,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![chairon-warhammer](https://github.com/user-attachments/assets/bb30140c-3956-437b-a513-04de77059ac3)
+
+##Dejate una estrellita ya que estas
