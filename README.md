@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java, c#, html, css, xml, sqlite and javascript
 - 📫 How to reach me: my instagram is open to everyone
 - ⚡ Fun fact: the word bug is so because a bug got into one of the first computers and caused it to fail.
-                                                                        
+```                                                      
             88                                                          
             ""                                                          
                                                                         
@@ -15,6 +15,6 @@
 88       88 88  `"YbbdP"Y8  `"YbbdP"Y8  `"Ybbd8"' 88         `"YbbdP"'  
                 aa,    ,88  aa,    ,88                                  
                  "Y8bbdP"    "Y8bbdP"                                   
-
+```
 
 ## Dejate una estrellita ya que estas
