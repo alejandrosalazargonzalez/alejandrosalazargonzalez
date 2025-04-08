@@ -10,8 +10,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=alejandrosalazargonzalez&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=alejandrosalazargonzalez&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrosalazargonzalez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github.com/user-attachments/assets/9a323237-e934-4751-a93d-5dae4dfac39c" width=200px style="padding-left: 1200px"> </img>
 
-<img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQxMzMzMzEsIm5iZiI6MTc0NDEzMzAzMSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDA4VDE3MjM1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFjZTRkZWRhMDNkOTczNzc2N2UyZWNmMjkwZTI0OWZmODhhY2FlYjNlYjA3MjNjZjdjMGYyYWFiNjU5NjdkMWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.OPtp6IBBh7KfUrw0TUgRpW8SRvN3j7yUUWAXgfE6gwU" alt="drawing" width="200"/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alejandrosalazargonzalez&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
