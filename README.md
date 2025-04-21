@@ -20,6 +20,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/salaneitor) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/[salazar](https://www.linkedin.com/in/alejandro-salazar-gonz%C3%A1lez-941b8031a/)) 
 
---
+## 💻 Repos:
+[![Army-maker-warhammer](Army-maker-warhammer)](https://github.com/alejandrosalazargonzalez/army-maker-warhammer): Una aplicacion donde crear y subir ejercitos de warhammer 40k, a parte de publicar fotos y mensajes.
+
+[![Ahorcado](Ahorcado)](https://github.com/alejandrosalazargonzalez/juego-del-ahorcado): El juego del ahorcado enlazado a una base de datos donde registrarse.
+____ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrosalazargonzalez&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrosalazargonzalez" /> </p>
 </p>
