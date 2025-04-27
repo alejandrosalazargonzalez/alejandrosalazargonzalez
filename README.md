@@ -24,6 +24,9 @@
 [![Army-maker-warhammer](Army-maker-warhammer)](https://github.com/alejandrosalazargonzalez/army-maker-warhammer): Una aplicacion donde crear y subir ejercitos de warhammer 40k, a parte de publicar fotos y mensajes.
 
 [![Ahorcado](Ahorcado)](https://github.com/alejandrosalazargonzalez/juego-del-ahorcado): El juego del ahorcado enlazado a una base de datos donde registrarse.
+
+[![Stratagem-Hero](Stratagem-Hero)](https://github.com/alejandrosalazargonzalez/Stratagem-Hero): Minijuego de poner los inputs de las estratagemas del famoso juego de helldivers 2, antes de que se acabe el tiempo.
+
 ____ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrosalazargonzalez&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrosalazargonzalez" /> </p>
 </p>
