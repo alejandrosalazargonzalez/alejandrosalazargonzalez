@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1>Wellcome to my repos</h1>
-<p>I'm a passionate frontend developer from Spain</p>
+<p>I'm a passionate developer from Spain</p>
 
 
 # 💻 Tech Stack:
