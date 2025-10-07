@@ -23,7 +23,8 @@
 [![Ahorcado](Ahorcado)](https://github.com/alejandrosalazargonzalez/juego-del-ahorcado): El juego del ahorcado enlazado a una base de datos donde registrarse.
 
 [![Stratagem-Hero](Stratagem-Hero)](https://github.com/alejandrosalazargonzalez/Stratagem-Hero): Minijuego de poner los inputs de las estratagemas del famoso juego de helldivers 2, antes de que se acabe el tiempo.
-[![QhesoMath](https://github.com/JesusLugo2002/PGL-QuesoMath)]: Una calculadura con tema de queso (work in progres).
+
+[![QhesoMath](QuesoMath)](https://github.com/JesusLugo2002/PGL-QuesoMath): Una calculadura con tema de queso (work in progres).
 
 ____ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrosalazargonzalez&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrosalazargonzalez" /> </p>
