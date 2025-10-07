@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1>Wellcome to my repos</h1>
-<p>I'm a passionate developer from Spain</p>
+<p>I'm a passionate banckend/frontend developer from Spain</p>
 
 
 # 💻 Tech Stack:
@@ -13,20 +13,17 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrosalazargonzalez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img src="https://github.com/user-attachments/assets/9a323237-e934-4751-a93d-5dae4dfac39c" width=200px style="padding: 12em"> </img>
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alejandrosalazargonzalez&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/salaneitor) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/[salazar](https://www.linkedin.com/in/alejandro-salazar-gonz%C3%A1lez-941b8031a/)) 
 
-## 💻 Repos:
+## 💻 My Repos:
 [![Army-maker-warhammer](Army-maker-warhammer)](https://github.com/alejandrosalazargonzalez/army-maker-warhammer): Una aplicacion donde crear y subir ejercitos de warhammer 40k, a parte de publicar fotos y mensajes.
 
 [![Ahorcado](Ahorcado)](https://github.com/alejandrosalazargonzalez/juego-del-ahorcado): El juego del ahorcado enlazado a una base de datos donde registrarse.
 
 [![Stratagem-Hero](Stratagem-Hero)](https://github.com/alejandrosalazargonzalez/Stratagem-Hero): Minijuego de poner los inputs de las estratagemas del famoso juego de helldivers 2, antes de que se acabe el tiempo.
+[![QhesoMath](https://github.com/JesusLugo2002/PGL-QuesoMath)]: Una calculadura con tema de queso (work in progres).
 
 ____ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrosalazargonzalez&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrosalazargonzalez" /> </p>
