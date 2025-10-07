@@ -10,12 +10,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=alejandrosalazargonzalez&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width=200px style="margin: 200px"></img>
 ![](https://nirzak-streak-stats.vercel.app/?user=alejandrosalazargonzalez&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrosalazargonzalez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img src="https://github.com/user-attachments/assets/9a323237-e934-4751-a93d-5dae4dfac39c" width=200px style="padding: 12em"> </img>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrosalazargonzalez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/salaneitor) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/[salazar](https://www.linkedin.com/in/alejandro-salazar-gonz%C3%A1lez-941b8031a/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/[salazar](https://www.linkedin.com/in/alejandro-salazar-gonz%C3%A1lez-941b8031a/))   
+<img src="https://github.com/user-attachments/assets/9a323237-e934-4751-a93d-5dae4dfac39c" width=200px style="padding: 12em"> </img>
 
 ## 💻 My Repos:
 [![Army-maker-warhammer](Army-maker-warhammer)](https://github.com/alejandrosalazargonzalez/army-maker-warhammer): Una aplicacion donde crear y subir ejercitos de warhammer 40k, a parte de publicar fotos y mensajes.
