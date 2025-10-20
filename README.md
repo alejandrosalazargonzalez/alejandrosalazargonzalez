@@ -20,7 +20,7 @@
 
 [Stratagem-Hero](https://github.com/alejandrosalazargonzalez/Stratagem-Hero): Minijuego de poner los inputs de las estratagemas del famoso juego de helldivers 2, antes de que se acabe el tiempo.
 
-[QuesoMath](https://github.com/JesusLugo2002/PGL-QuesoMath): Una calculadura con tema de queso (work in progres).
+[Cheeseculator](https://github.com/JesusLugo2002/PGL-QuesoMath): Una calculadura con tema de queso.
 
 ____ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrosalazargonzalez&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrosalazargonzalez" /> </p>
